@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "fullName": "Marcos Paulo",
+      "register": "A32HT8",
+      "access": "Administrador",
+      "active": true
+    },
+    {
+      "fullName": "Pinto dos",
+      "register": "A52HT8",
+      "access": "Gerente",
+      "active": false
+    },
+    {
+      "fullName": "Santos Filho",
+      "register": "A32TT8",
+      "access": "Funcionário",
+      "active": true
+    }
+  ]
+}
